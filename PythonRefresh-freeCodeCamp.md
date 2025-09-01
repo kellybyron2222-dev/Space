@@ -1,5 +1,5 @@
 **September 1 2025**
-- <u>**Phyton Refresher Start, Section 1, String Manipulation**</u>
+- **Phyton Refresher Start, Section 1, String Manipulation**
  - Strings characters are accessed inside [ ] and not ( ) 
  - len will output the length of characters of a defined function 
  - type will output the class type (string, intiger, etc.)
