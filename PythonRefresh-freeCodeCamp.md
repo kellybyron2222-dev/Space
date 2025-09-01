@@ -11,8 +11,8 @@
   - To find a letter in a string, use the function .find. Append the vairable name to the beginning of the function (vairable is Name, so its name.find(e) to return the value 4 or you can also find the position of a value in the string by specifying the [#]
   - 0 is the fist value in a string (not 1) 
  - Loops 
-  - Loops can be ussed to find the values in a string of text. 'for' loops work here
-  - you must indend the code in loops in python, 4 spaces per indentation level. Python relies in indentations for blocks of code which is designated by a : at the beginning  
+    - Loops can be ussed to find the values in a string of text. 'for' loops work here
+    - you must indend the code in loops in python, 4 spaces per indentation level. Python relies in indentations for blocks of code which is designated by a : at the beginning  
 - Strings
   - Strings are immutable (can not be changed after creation; will generate a 'TypeError')
   -     
