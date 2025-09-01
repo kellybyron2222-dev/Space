@@ -1,4 +1,4 @@
-# 4-Month Self-Study Plan for Space Industry Business Development (September-December 2025)
+<img width="1488" height="1450" alt="image" src="https://github.com/user-attachments/assets/567996f0-d938-4e47-a982-f02fdeecb62f" /># 4-Month Self-Study Plan for Space Industry Business Development (September-December 2025)
 
 **Goal**: Transition from geophysics/M&A/energy VC to senior business development roles in the space industry by January 2026, targeting high-paying, non-ITAR roles ($180,000-$300,000+) at companies like Planet Labs, Rocket Lab, or Spire Global. Dedicate ~10-15 hours/week to build space tech expertise, refresh Python, and develop a portfolio showcasing your geophysics-to-space bridge.
 
@@ -7,6 +7,7 @@
 
 - **Courses** (~6-8 hours/week, free, self-paced):
   - *Scientific Computing with Python* (freeCodeCamp): Master NumPy, SciPy, Pandas for geophysical/satellite data analysis (20 hours total).
+  -[Notes for Python Refresh - freeCodeCamp](Python-Refresh-freeCodeCamp.md) 
   - *Introduction to Aerospace Engineering* (MIT OCW): Learn orbital mechanics and space systems, linking to NEP/Mars missions (15 hours total).
 - **Project** (~2-3 hours/week): Use Google Colab to analyze USGS seismic data vs. NASA GRACE satellite data. Upload to GitHub as “Geophysics-to-Space Data Analysis.”
 - **Networking** (~1 hour/week): Join AIAA forums and Space Entrepreneurs Slack. Follow Planet Labs, Rocket Lab, and Spire Global on LinkedIn/X.
