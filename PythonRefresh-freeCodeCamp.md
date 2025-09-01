@@ -8,4 +8,3 @@
  - Can not start with a number and can only be alpha-numveric or underscores
  - Are case sensitive
  - No spaces, use underscores instead (same for Markdown files!!)
-- 
