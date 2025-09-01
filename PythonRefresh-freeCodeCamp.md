@@ -15,4 +15,4 @@
     - you must indend the code in loops in python, 4 spaces per indentation level. Python relies in indentations for blocks of code which is designated by a : at the beginning  
 - Strings
   - Strings are immutable (can not be changed after creation; will generate a 'TypeError')
-  -     
+Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-36 
