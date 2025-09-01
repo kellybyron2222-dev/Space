@@ -7,7 +7,7 @@
 
 - **Courses** (~6-8 hours/week, free, self-paced):
   - *Scientific Computing with Python* (freeCodeCamp): Master NumPy, SciPy, Pandas for geophysical/satellite data analysis (20 hours total).
-  -[Notes for Python Refresh - freeCodeCamp](Python-Refresh-freeCodeCamp.md) 
+  -[Notes for Python Refresh - freeCodeCamp](Python Refresh - freeCodeCamp.md) 
   - *Introduction to Aerospace Engineering* (MIT OCW): Learn orbital mechanics and space systems, linking to NEP/Mars missions (15 hours total).
 - **Project** (~2-3 hours/week): Use Google Colab to analyze USGS seismic data vs. NASA GRACE satellite data. Upload to GitHub as “Geophysics-to-Space Data Analysis.”
 - **Networking** (~1 hour/week): Join AIAA forums and Space Entrepreneurs Slack. Follow Planet Labs, Rocket Lab, and Spire Global on LinkedIn/X.
