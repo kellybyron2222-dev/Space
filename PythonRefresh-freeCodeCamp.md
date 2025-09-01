@@ -8,4 +8,7 @@
   - Can not start with a number and can only be alpha-numveric or underscores
   - Are case sensitive
   - No spaces, use underscores instead (same for Markdown files!!)
-  - To find a letter in a string, use the function .find. Append the vairable name to the beginning of the function (vbairable is Name, so its name.find(e) to return the value 4
+  - To find a letter in a string, use the function .find. Append the vairable name to the beginning of the function (vairable is Name, so its name.find(e) to return the value 4 or you can also find the position of a value in the string by specifying the [#]
+ - Ciphers 
+  - Caesar cipher
+    - 
