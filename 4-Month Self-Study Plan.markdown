@@ -5,9 +5,17 @@
 ## Month 1 (September 2025): Python Refresh and Space Tech Foundations
 **Objective**: Rebuild Python proficiency for data-driven market analysis and gain foundational space tech knowledge for BD.
 
-- **Courses** (~6-8 hours/week, free, self-paced):
+- **Programming Courses** (~6-8 hours/week, free, self-paced):
   - *Scientific Computing with Python* (freeCodeCamp): Master NumPy, SciPy, Pandas for geophysical/satellite data analysis (20 hours total).
-  -[Notes for Python Refresh - freeCodeCamp](PythonRefresh-freeCodeCamp.md) 
+  [Notes for Python Refresh - freeCodeCamp](PythonRefresh-freeCodeCamp.md) 
+  - *Introduction to GitHub* (Microsoft Learn, Module): Self-paced tutorial on the basics
+  - *Introduction to Git* (Microsoft Learn, Module): Essential underlying components of GitHub      
+  - *Introduction to GitHub* (GitHub): Interactive training 
+  - *GitHub Learning Pathways* (Microsoft Learn): AI powered GitHub CoPilot and others
+  - *Hello GitHub Actions Course* (Github): Automation workflows
+  - *Introduction to GIT in Visual Studio Code Tutorial* (Visual Studio): Step-by-step guide on how to work in VS and GitHub from the VS Codes user interface
+  - *GitHub and VS Code for Beginners* (Youtube) 
+- **Industry Courses** (~15 hours total, free, self-paced):
   - *Introduction to Aerospace Engineering* (MIT OCW): Learn orbital mechanics and space systems, linking to NEP/Mars missions (15 hours total).
     [Notes for Intro to Aerospace Engineering](IntroAerospaceEng.md) 
 - **Project** (~2-3 hours/week): Use Google Colab to analyze USGS seismic data vs. NASA GRACE satellite data. Upload to GitHub as “Geophysics-to-Space Data Analysis.”
