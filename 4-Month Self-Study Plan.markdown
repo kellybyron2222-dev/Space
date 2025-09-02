@@ -25,9 +25,11 @@
 ## Month 2 (October 2025): Bridge Geophysics to Space Applications
 **Objective**: Connect geophysics expertise to space tech (e.g., remote sensing, planetary science) to strengthen BD pitch credibility.
 
-- **Courses** (~6-8 hours/week, free, self-paced):
+- **Industry Courses** (~6-8 hours/week, free, self-paced):
   - *Geophysics Courses* (Class Central): Audit seismic modeling modules, apply to planetary geophysics (15 hours total).
   - *Space Science Online* (Class Central): Study planetary science and remote sensing, focusing on Mars mission data (10 hours total).
+- **Optional Programming Course** (~4 hours/week, free, self-paced):
+  - *Harvard's Introduction to Data Science with Python* (edX): More advanced course, may take 2 months to complete parttime 
 - **Project** (~3-4 hours/week): Code a Python script comparing Earth gravity vs. Mars surface data (using NASA datasets). Upload to GitHub as “Earth-to-Mars Geophysical Modeling.”
 - **Networking** (~1-2 hours/week): Attend a NASA APPEL webinar (free) and connect with 2-3 BD professionals at target companies on LinkedIn.
 - **Milestone**: Articulate geophysics-to-space connections; complete second GitHub project; establish 5+ BD contacts.
