@@ -18,5 +18,6 @@
 Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-36 
 **September 6 2025**
 - **Phyton Refresher Start, Section 36, String Manipulation**
-  - '+=' // Addition assignment operator: a = a+b is the same as a +=b; you can add a value to a variable and then assign the result to that variable  
+  - '+=' // <u>Addition assignment operator</u>: a = a+b is the same as a +=b; you can add a value to a variable and then assign the result to that variable
+  -  
   
