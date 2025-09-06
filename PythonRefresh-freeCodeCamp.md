@@ -24,4 +24,6 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
     - != Not equal
     - *> < Greater/less than*
     - *>= <= Greater than or equal / less than or requal*
-    - if statements otherwise work the same as in excel 
+    - if statements otherwise work the same as in excel but you need a : after the argument (if x=2: print (x), else: print (y))
+  - modulo operator (%) can be used to return the remainder of the difvision between two numbers
+      - 5 % 2 is 1 as 5 divided by 2 has a quotient of 2 and a remainder of 2 
