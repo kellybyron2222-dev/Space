@@ -16,3 +16,5 @@
 - Strings
   - Strings are immutable (can not be changed after creation; will generate a 'TypeError')
 Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-36 
+**September 6 2025**
+- **Phyton Refresher Start, Section 1, String Manipulation**
