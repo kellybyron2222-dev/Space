@@ -23,4 +23,5 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
     - == Equal
     - != Not equal
     - *> < Greater/less than*
-    - *>= <= Greater than or equal / less than or requal* 
+    - *>= <= Greater than or equal / less than or requal*
+    - if statements otherwise work the same as in excel 
