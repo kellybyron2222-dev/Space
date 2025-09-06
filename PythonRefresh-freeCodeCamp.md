@@ -36,4 +36,4 @@
   - a *function* is a reusable block of code; can define as *def function_name ():*
       - declaration starts with the def keyword followed by the function name and () and ends with a colon
       - any vairabled defined *within* a function are local - only used for that function. Define variables outside a function for global use
-*Stopped at Step 52 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-53*    
+- *Stopped at Step 52 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-53*    
