@@ -26,4 +26,10 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
     - *>= <= Greater than or equal / less than or requal*
     - if statements otherwise work the same as in excel but you need a : after the argument (if x=2: print (x), else: print (y))
   - modulo operator (%) can be used to return the remainder of the difvision between two numbers
-      - 5 % 2 is 1 as 5 divided by 2 has a quotient of 2 and a remainder of 2 
+      - 5 % 2 is 1 as 5 divided by 2 has a quotient of 2 and a remainder of 2
+      - useful in shift and index. example from google
+          - index + shift: This calculates the new, raw position for the character.
+            - For the letter 'Z', which is at index 25, index + shift would be 25 + 3 = 28. This is an invalid index for the 26-letter alphabet.
+            - % 26: This takes the result of the previous step (28) and divides it by the total number of characters in the alphabet (26). The operator then returns only the remainder.
+            - 28 % 26 equals 2, because 26 goes into 28 once with a remainder of 2.
+            - alphabet[new_index]: The final result (2) is a valid index, corresponding to the letter 'c', which is the correct cipher character for 'z' with a shift of 3. 
