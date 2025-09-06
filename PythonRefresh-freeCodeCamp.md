@@ -19,5 +19,9 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
 **September 6 2025**
 - **Phyton Refresher Start, Section 36, String Manipulation**
   - '+=' // <u>Addition assignment operator</u>: a = a+b is the same as a +=b; you can add a value to a variable and then assign the result to that variable
-  -  
+  -  'Comparsion Operators" // Used to compare values
+    - == Equal
+    - != Not equal
+    - > < Greater/less than
+    - >= <= Greater than or equal / less than or requal 
   
