@@ -15,7 +15,7 @@
     - you must indend the code in loops in python, 4 spaces per indentation level. Python relies in indentations for blocks of code which is designated by a : at the beginning  
 - Strings
   - Strings are immutable (can not be changed after creation; will generate a 'TypeError')
-Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-36 
+*Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-36* 
 **September 6 2025**
 - **Phyton Refresher Start, Section 36, String Manipulation**
   - '+=' // <u>Addition assignment operator</u>: a = a+b is the same as a +=b; you can add a value to a variable and then assign the result to that variable
@@ -36,4 +36,4 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
   - a *function* is a reusable block of code; can define as *def function_name ():*
       - declaration starts with the def keyword followed by the function name and () and ends with a colon
       - any vairabled defined *within* a function are local - only used for that function. Define variables outside a function for global use
-      
+*Stopped at Step 52 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-53*    
