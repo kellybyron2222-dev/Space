@@ -32,4 +32,8 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
             - For the letter 'Z', which is at index 25, index + shift would be 25 + 3 = 28. This is an invalid index for the 26-letter alphabet.
             - % 26: This takes the result of the previous step (28) and divides it by the total number of characters in the alphabet (26). The operator then returns only the remainder.
             - 28 % 26 equals 2, because 26 goes into 28 once with a remainder of 2.
-            - alphabet[new_index]: The final result (2) is a valid index, corresponding to the letter 'c', which is the correct cipher character for 'z' with a shift of 3. 
+            - alphabet[new_index]: The final result (2) is a valid index, corresponding to the letter 'c', which is the correct cipher character for 'z' with a shift of 3.
+  - a function is a reusable block of code; can define as def function_name ():
+      - declaration starts with the def keyword followed by the function name and () and ends with a colon
+      - any vairabled defined *within* a function are local - only used for that function. Define variables outside a function for global use
+      
