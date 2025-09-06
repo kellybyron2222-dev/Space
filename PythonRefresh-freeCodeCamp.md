@@ -22,5 +22,5 @@ Stopped at Step 36 https://www.freecodecamp.org/learn/scientific-computing-with-
   -  'Comparsion Operators" // Used to compare values
     - == Equal
     - != Not equal
-    - "> < Greater/less than"
-    - ">= <= Greater than or equal / less than or requal" 
+    - *> < Greater/less than*
+    - *>= <= Greater than or equal / less than or requal* 
