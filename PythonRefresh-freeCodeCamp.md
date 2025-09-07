@@ -41,6 +41,6 @@
 - **Phyton Refresher Start, Section 53, String Manipulation**
 -   - functions can be declared with *paramneters
       - def function_name (param_1, param_2): before the code
-        - example, def byrons_function(message passed, key) where key is an encoder to shift the letters 
-    - Vigenère cipher is where the offset for each letter is determined by another text, called the key
+        - example, def byrons_function(message passed, key) where key is an encoder to shift the letters
+      - Vigenère cipher is where the offset for each letter is determined by another text, called the key
       - 
