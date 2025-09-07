@@ -1,6 +1,6 @@
 **September 1 2025**
 - **Phyton Refresher Start, Section 1, String Manipulation**
-  - Strings characters are accessed inside [ ] and not ( ) 
+  - Strings characters are accessed inside [ ] and not ( ) (Text)
   - len will output the length of characters of a defined function 
   - type will output the class type (string, intiger, etc.)
 - <u>Vairable Names</u>
@@ -41,6 +41,8 @@
 - **Phyton Refresher Start, Section 53, String Manipulation**
 -   - functions can be declared with *paramneters
       - def function_name (param_1, param_2): before the code
+    - "#' is used to write comments in the code. Comments are very helpful in understanding what your code does / good pratice to use for reference. Anything entered after a # wont be executed in Python
+      - 
         - example, def byrons_function(message passed, key) where key is an encoder to shift the letters
       - Vigenère cipher is where the offset for each letter is determined by another text, called the key
       - 
