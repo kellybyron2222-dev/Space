@@ -44,4 +44,5 @@
       - example, def byrons_function(message passed, key) where key is an encoder to shift the letters
       - Vigenère cipher is where the offset for each letter is determined by another text, called the key
    - '#' is used to write comments in the code. Comments are very helpful in understanding what your code does / good pratice to use for reference. Anything entered after a # wont be executed in Python
+   - a ValueError is a built-in exception that is raised when an agrument with the right type but wrong value type is passed to a function 
     
