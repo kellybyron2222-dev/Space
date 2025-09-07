@@ -37,3 +37,10 @@
       - declaration starts with the def keyword followed by the function name and () and ends with a colon
       - any vairabled defined *within* a function are local - only used for that function. Define variables outside a function for global use
 - *Stopped at Step 52 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-53*    
+**September 7 2025**
+- **Phyton Refresher Start, Section 53, String Manipulation**
+-   - functions can be declared with *paramneters
+      - def function_name (param_1, param_2): before the code
+        - example, def byrons_function(message passed, key) where key is an encoder to shift the letters 
+    - Vigenère cipher is where the offset for each letter is determined by another text, called the key
+      - 
