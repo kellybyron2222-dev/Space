@@ -39,9 +39,9 @@
 - *Stopped at Step 52 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-53*    
 **September 7 2025**
 - **Phyton Refresher Start, Section 53, String Manipulation**
--   - functions can be declared with *paramneters
-      - def function_name (param_1, param_2): before the code
-        - example, def byrons_function(message passed, key) where key is an encoder to shift the letters
+  - functions can be declared with *paramneters
+    - def function_name (param_1, param_2): before the code
+      - example, def byrons_function(message passed, key) where key is an encoder to shift the letters
       - Vigenère cipher is where the offset for each letter is determined by another text, called the key
-  - '#' is used to write comments in the code. Comments are very helpful in understanding what your code does / good pratice to use for reference. Anything entered after a # wont be executed in Python
+   - '#' is used to write comments in the code. Comments are very helpful in understanding what your code does / good pratice to use for reference. Anything entered after a # wont be executed in Python
     
