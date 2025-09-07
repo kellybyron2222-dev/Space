@@ -36,6 +36,7 @@
   - a *function* is a reusable block of code; can define as *def function_name ():*
       - declaration starts with the def keyword followed by the function name and () and ends with a colon
       - any vairabled defined *within* a function are local - only used for that function. Define variables outside a function for global use
+      - functions can be called with *default arguments* which will ve used if the argument is not passed (example, function uses 3 arguments, only 2 defined, 3rd is default)
 - *Stopped at Step 52 https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-53*    
 **September 7 2025**
 - **Phyton Refresher Start, Section 53, String Manipulation**
@@ -44,5 +45,8 @@
       - example, def byrons_function(message passed, key) where key is an encoder to shift the letters
       - Vigenère cipher is where the offset for each letter is determined by another text, called the key
    - '#' is used to write comments in the code. Comments are very helpful in understanding what your code does / good pratice to use for reference. Anything entered after a # wont be executed in Python
-   - a ValueError is a built-in exception that is raised when an agrument with the right type but wrong value type is passed to a function 
+   - a ValueError is a built-in exception that is raised when an agrument with the right type but wrong value type is passed to a function
+   - index is used to find a value, and will throw a ValueError code. written as variable.index(VALUE)
+   - A return statement is used to return a defined value. example, define a function, that reutns a string (def foo(): return 'spam')
+   -  
     
