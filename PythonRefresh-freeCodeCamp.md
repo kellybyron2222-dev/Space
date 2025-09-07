@@ -48,5 +48,5 @@
    - a ValueError is a built-in exception that is raised when an agrument with the right type but wrong value type is passed to a function
    - index is used to find a value, and will throw a ValueError code. written as variable.index(VALUE)
    - A return statement is used to return a defined value. example, define a function, that reutns a string (def foo(): return 'spam')
-   -  
+   -  .isalpha() returns True is all characters of the string are letters. Example, if byrons_variable.isalpha(): will return true if byrons_variable is defined as a string with letter only (no characters like !$*) 
     
